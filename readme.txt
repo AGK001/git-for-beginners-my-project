@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Ejike Etolue
+Author: Ejike Alphonsus Etolue
 Twitter: @ejikeetolue
